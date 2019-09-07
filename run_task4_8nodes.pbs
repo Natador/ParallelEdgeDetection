@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -l nodes=8
+#PBS -l walltime=00:05:00
+#PBS -N result_task4_8nodes
+#PBS -M nadacant@iupui.edu
+#PBS -m abe
+#PBS -q cpu
+#PBS -V
+aprun -n 8 ~/Tasks/Task4/task4

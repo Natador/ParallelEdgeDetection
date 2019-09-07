@@ -1,0 +1,17 @@
+offset 1078
+Serial portion (ms): 1031.633000
+Parallel portion (ms): 0.532000
+Application 15400027 resources: utime ~0s, stime ~0s, Rss ~5820, inblocks ~6541, outblocks ~15822
+offset 1078
+Serial portion (ms): 624.162000
+Parallel portion (ms): 1.557000
+Application 15400028 resources: utime ~1s, stime ~2s, Rss ~10168, inblocks ~12856, outblocks ~31514
+offset 1078
+Serial portion (ms): 445.233000
+Parallel portion (ms): 1.130000
+Application 15400030 resources: utime ~3s, stime ~2s, Rss ~10216, inblocks ~25451, outblocks ~62898
+Job Cleanup ran on Wed Mar 7 17:35:57 EST 2018
+===============================
+submit_args  : 	 submit_args = parallel_run_task4.pbs
+NIDS         : 	 13,32,63,907
+NID Placement: 	 13/1 32/1 63/1 907/1 
